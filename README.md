@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanchayansamaddar](https://github.com/sanchayansamaddar)
 
-- 💬 Ask me about **C,C++,Html5,CSS,Javascript**
+- 💬 Ask me about **C,C++,Html5,CSS,Javascript,python**
 
 - 📫 How to reach me **ss7587@srmist.edu.in**
 
