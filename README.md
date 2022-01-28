@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanchayan Samaddar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center"> <img src="http://hc-eg.com/strategic-management-certificate/image-research-development/" alt="sanchayansamaddar" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchayansamaddar&label=Profile%20views&color=0e75b6&style=flat" alt="sanchayansamaddar" /> </p>
 
