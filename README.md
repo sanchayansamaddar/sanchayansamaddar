@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C,C++,Html5,CSS,Javascript,python**
 
-- 📫 How to reach me **ss7587@srmist.edu.in**
+- 📫 How to reach me **sanchayansamaddar94@gmail.com**
 
 <p align="left">
 </p>
